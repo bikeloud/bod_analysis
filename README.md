@@ -11,10 +11,10 @@ The current analysis includes:
 - Portland Bureau of Transportation (PBOT) [equity matrix](https://equity.bikeloudpdx.org) (includes income, race, languages spoken)
 
 ## TODO:
-[x] Acquire 2017 ACS Population Density data
-[ ] Acquire Trimet Ridership data
-[ ] Acquire Aff. Housing Density data
-[ ] Acquire Car-Free/Low-Car Households data (Table: )
-[ ] Export Equity Matrix map
-[ ] Develop cumulative ranking/scoring formula
+- [x] Acquire 2017 ACS Population Density data
+- [ ] Acquire Trimet Ridership data
+- [ ] Acquire Aff. Housing Density data
+- [ ] Acquire Car-Free/Low-Car Households data (Table: )
+- [ ] Export Equity Matrix map
+- [ ] Develop cumulative ranking/scoring formula
 
